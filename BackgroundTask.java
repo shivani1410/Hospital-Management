@@ -23,7 +23,6 @@ import static android.icu.lang.UCharacter.GraphemeClusterBreak.L;
 /**
  * Created by shivanimathur on 15/04/18.
  */
-
 public class BackgroundTask {
     Context context;
     String json_url="http://192.168.43.179:8888/doctorlist.php";
